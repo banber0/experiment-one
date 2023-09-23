@@ -1,2 +1,1 @@
-# python
-# python
+用python模拟的彩票程序
